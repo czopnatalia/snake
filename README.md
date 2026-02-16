@@ -20,3 +20,8 @@ Double-click the .sln (Solution) file to open it in Visual Studio.
 Once the project loads, wait for Visual Studio to restore any necessary dependencies or NuGet packages.
 
 Press F5 or click the Start button (Green Arrow) on the top toolbar to compile and run the application.
+
+## Visuals
+Here is the gameplay showing the Phong lighting model and custom 3D geometry:
+
+![Snake 3D Gameplay Showcase](screen.png)
