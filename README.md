@@ -9,7 +9,7 @@ Make sure you have Git installed on your system.
 ## 2. Clone the Repository
 Open your terminal or Git Bash and run:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/czopnatalia/snake
 
 ## 3. Open the Project
 Navigate to the project folder.
